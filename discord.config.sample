@@ -1,0 +1,6 @@
+[discord_settings]
+token = BOT_TOKEN
+channels = 123456,7890123
+server_id = 123456788
+# Do not quote these strings
+# Channel IDs should be comma separated list of Channel IDs
